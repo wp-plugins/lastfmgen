@@ -33,4 +33,7 @@ e.g.
 <img src="http://lastfmgen.web44.net/1.jpg">
 <img src="http://lastfmgen.web44.net/2.jpg">
 
+http://lastfmgen.web44.net/1.jpg
+http://lastfmgen.web44.net/2.jpg
+
 
