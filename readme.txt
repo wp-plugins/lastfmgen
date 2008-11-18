@@ -1,5 +1,5 @@
 === Last.Fm-Gen ===
-Contributors: Roto, Leafblade
+Contributors: Leafblade, Roto
 Donate link: http://lastfmgen.web44.net
 Tags: Last.Fm, Code, Generator, Audio
 Requires at least: 2.0.2
@@ -29,6 +29,9 @@ e.g.
 3. Goto the options page to find Lastfmgen there.
 
 == Screenshots ==
+
+1.jpg
+2.jpg
 
 
 
