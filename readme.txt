@@ -30,10 +30,8 @@ e.g.
 
 == Screenshots ==
 
-<img src="http://lastfmgen.web44.net/1.jpg">
-<img src="http://lastfmgen.web44.net/2.jpg">
-
 http://lastfmgen.web44.net/1.jpg
+<p>
 http://lastfmgen.web44.net/2.jpg
 
 
