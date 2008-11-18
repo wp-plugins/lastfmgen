@@ -30,8 +30,7 @@ e.g.
 
 == Screenshots ==
 
-1.jpg
-2.jpg
-
+1. `/tags/0.1/1.jpg`
+2. `/tags/0.1/2.jpg`
 
 
