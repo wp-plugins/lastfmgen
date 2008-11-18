@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: LastFmGen
-Plugin URI: http://leafblade.net/lastfmgen.zip
+Plugin URI: http://wordpress.org/extend/plugins/lastfmgen/
 Description: Last Fm Audio Embed Code Generator
 Author: Leafblade, Roto
 Version: 0.1
-Author URI: http://leafblade.net
+Author URI: http://lastfmgen.web44.net/
 */ 
 
 /*  Copyright 2008  Leafblade  (email : info@leafblade.net)
