@@ -3,12 +3,12 @@
 Plugin Name: LastFmGen
 Plugin URI: http://leafblade.net/lastfmgen.zip
 Description: Last Fm Audio Embed Code Generator
-Author: Roto (Script), Fira (Plugin)
+Author: Leafblade, Roto
 Version: 0.1
 Author URI: http://leafblade.net
 */ 
 
-/*  Copyright 2008  Fira  (email : info@leafblade.net)
+/*  Copyright 2008  Leafblade  (email : info@leafblade.net)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
