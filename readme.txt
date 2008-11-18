@@ -30,7 +30,7 @@ e.g.
 
 == Screenshots ==
 
-1. `/tags/0.1/1.jpg`
-2. `/tags/0.1/2.jpg`
+<img src="http://lastfmgen.web44.net/1.jpg">
+<img src="http://lastfmgen.web44.net/2.jpg">
 
 
