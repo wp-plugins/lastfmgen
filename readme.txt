@@ -27,6 +27,10 @@ e.g.
 1. Upload `lastfmgen.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Goto the options page to find Lastfmgen there.
+4. Enter Last.Fm song page URL.
+5. Click Generate!
+6. Copy Pasta code into your webpage
+7. Leave a comment for the Last.Fm-Gen author!
 
 == Screenshots ==
 
