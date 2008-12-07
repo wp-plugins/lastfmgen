@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: LastFmGen
-Plugin URI: http://lastfmgen.web44.net/
+Plugin URI: http://leafblade.net/lastfmgen.zip
 Description: Last Fm Audio Embed Code Generator
-Author: Leafblade, Roto
-Version: 0.1
+Author: Roto (Script), Fira (Plugin)
+Version: 0.2
 Author URI: http://leafblade.net
 */ 
 
-/*  Copyright 2008  Leafblade  (email : info@leafblade.net)
+/*  Copyright 2008  Fira  (email : info@leafblade.net)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -83,6 +83,35 @@ echo '<hr>Script by <b>Roto</b>, Plugin by <a href="http://leafblade.net">Fira</
 ?>                              
                            
 			</div>
+
+<div class="wrap">
+<P><P><h3>Leave a comment on the Last.Fm-Gen website :</h1><P><P>
+
+<form action="http://lastfmgen.web44.net/lastfmgen/wp-comments-post.php" method="post" id="commentform">
+                            <p>
+
+                <input type="text" name="author" id="author" value="" size="22" tabindex="1" class="form-text"/>
+                <label for="author"><small>Name </small></label>
+              </p>
+              <p>
+                <input type="text" name="email" id="email" value="" size="22" tabindex="2" class="form-text"/>
+                <label for="email"><small>Mail (will not be published) </small></label>
+              </p>
+              <p>
+
+                <input type="text" name="url" id="url" value="" size="22" tabindex="3" class="form-text"/>
+                <label for="url"><small>Website</small></label>
+              </p>
+                            <p><textarea name="comment" id="comment" cols="50%" rows="10" tabindex="4" class="form-textarea"></textarea></p>
+              <p>
+                <input name="submit" type="submit" id="submit" tabindex="5" value="Comment now" class="form-submit"/>
+                <input type="hidden" name="comment_post_ID" value="4" />
+              </p>
+
+              <script src="http://lastfmgen.web44.net/?live-comment-preview.js" type="text/javascript"></script><div id="commentPreview"></div>            </form></div>
+
+
+
 			<?php
 		} 
 
@@ -97,4 +126,8 @@ if (class_exists('lfm_lastfmgen')) {
 
 
 
+
+
+
 ?>
+
