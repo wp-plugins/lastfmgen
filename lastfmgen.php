@@ -4,7 +4,7 @@ Plugin Name: LastFmGen
 Plugin URI: http://lastfmgen.web44.net
 Description: Last Fm Audio Embed Code Generator
 Author: Roto (Script), Fira (Plugin)
-Version: 0.2
+Version: 0.3
 Author URI: http://leafblade.net
 */ 
 
@@ -47,7 +47,7 @@ if (!class_exists('lfm_lastfmgen')) {
 		
 
 		function add_admin_pages(){
-				add_submenu_page('options-general.php', "LastFmGen", "LastFmGen", 10, "LastFmGen", array(&$this,"output_sub_admin_page_2"));
+				add_submenu_page('index.php', "LastFmGen", "LastFmGen", 10, "LastFmGen", array(&$this,"output_sub_admin_page_2"));
 		}
 		
 		/**
