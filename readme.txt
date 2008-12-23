@@ -2,7 +2,7 @@
 Contributors: Leafblade, Roto
 Donate link: http://lastfmgen.web44.net
 Tags: Last.Fm, Code, Generator, Audio
-Requires at least: 2.0.2
+Requires at least: 2.0.2, Flash 9
 Tested up to: 2.7
 Stable tag: trunk
 
@@ -38,4 +38,6 @@ http://lastfmgen.web44.net/1.jpg
 <p>
 http://lastfmgen.web44.net/2.jpg
 
+== Note ==
 
+The Last Fm inline flash player (which is embedded with this script) is not compatable with Flash 10! Any browsers using Flash 10 will not see any Last Fm Play Button.
