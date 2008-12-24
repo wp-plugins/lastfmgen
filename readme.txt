@@ -2,8 +2,8 @@
 Contributors: Leafblade, Roto
 Donate link: http://lastfmgen.web44.net
 Tags: Last.Fm, Code, Generator, Audio
-Requires at least: 2.0.2, Flash 9
-Tested up to: 2.7
+Requires at least: 2.0.2
+Tested up to: 2.7 & Flash 9
 Stable tag: trunk
 
 The Last.Fm Audio Code Generator.
